@@ -1,0 +1,2 @@
+# RBXAnimated
+[RBXGIT VERSION]
